@@ -1,7 +1,7 @@
 # 🎓 University Management System
 
 ## 📖 Description
-A comprehensive web-based university management system built with Django that handles student enrollment, course management, library services, and academic activities. The system provides different interfaces for students and professors, enabling efficient management of educational resources and activities.
+A comprehensive web-based university management system built with Django that handles student enrollment, course management, library services, and academic activities. The system provides different interfaces for students and professors, enabling efficient management of educational resources & activities.
 
 ## ✨ Features
 - **🔐 User Authentication**
